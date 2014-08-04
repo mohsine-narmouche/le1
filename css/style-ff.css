@@ -1,0 +1,83 @@
+body{
+	}
+
+.fadebox{
+	background: url(../images/body_bg_ff.jpg) repeat-x;
+}
+
+.logo_image{
+	/* firefox */
+	width: 190px;
+	height: 18px;
+	padding-top: 125px;
+	background: url(../images/logo_ff.png) no-repeat center 0px;
+	margin: 23px auto 0px;
+	font-size: 20px;
+    color: #484848;
+    text-shadow: 0px 1px 0px #fff;
+}
+
+.logo{
+	border-bottom: 4px solid #d9671d;
+}
+
+.header .wrapper{
+	border-bottom: none;
+	padding-bottom:2px;
+	background: url(../images/bg_header_ff.gif) repeat-x bottom;
+}
+
+.content_container .wrapper {
+    background: url("../images/browser_ff.png") no-repeat center 20px transparent;
+    height: 600px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.survey_content{
+    padding-top: 118px;
+}
+
+
+.header_text{
+	color: #404040;
+	text-shadow: 0px 1px 0px #FFF;
+}
+
+.header_text_header{
+	padding-top: 45px;
+}
+
+.footer{
+	margin-top: 80px;
+	padding-bottom: 5px;
+	color: #CCC;
+	text-shadow: 0px 1px 1px #333;
+
+}
+
+.footer .wrapper{
+    background: none;
+    height: auto;
+}
+
+
+.footer a{
+	color: #FFF;
+	font-weight: bold;
+}
+
+.btn{
+    background: url("../images/btn_bg_ff_green.gif") repeat-x scroll 0 0 #689600;
+    border-top: 1px solid #b9d971;
+    border-bottom: 1px solid #517500;
+    border-left: 1px solid #75aa00;
+    border-right: 1px solid #75aa00;
+    border-radius: 3px;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
+    font-family: Georgia, "Times New Roman", "Lucida Grande", "Lucida Sans";
+    text-shadow: 0px -1px 0px #4c6b0a;
+}
